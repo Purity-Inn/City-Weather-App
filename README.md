@@ -2,6 +2,12 @@
 
 A beautiful Flutter application that provides real-time weather information for cities worldwide. Get current weather conditions, forecasts, and location-based weather data with an intuitive and modern interface.
 
+## 🌐 Live Demo
+
+**🚀 [Try the Live Web App](https://purity-inn.github.io/City-Weather-App/)**
+
+*Access the app directly in your browser - no installation required!*
+
 ## ✨ Features
 
 - 🔍 **City Search**: Search for weather information by city name
@@ -116,6 +122,27 @@ flutter build macos
 ```bash
 flutter build linux
 ```
+
+## 🚀 Deployment
+
+This app is deployed and accessible on multiple platforms:
+
+### 🌐 Web Application
+- **Live Demo**: [https://purity-inn.github.io/City-Weather-App/](https://purity-inn.github.io/City-Weather-App/)
+- **Platform**: GitHub Pages
+- **Status**: ✅ Live and running
+
+### 📱 Mobile Applications
+- **Android APK**: Available for download (built with `flutter build apk`)
+- **iOS**: Can be built on macOS with `flutter build ios`
+
+### 💻 Desktop Applications
+- **Windows**: Can be built with `flutter build windows`
+- **macOS**: Can be built on macOS with `flutter build macos`
+- **Linux**: Can be built with `flutter build linux`
+
+### 🔄 Continuous Deployment
+The web version is automatically deployed to GitHub Pages from the `gh-pages` branch whenever updates are pushed.
 
 ## 🤝 Contributing
 
