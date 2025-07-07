@@ -28,8 +28,8 @@ A beautiful Flutter application that provides real-time weather information for 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/city_weather_app.git
-   cd city_weather_app
+   git clone https://github.com/Purity-Inn/City-Weather-App.git
+   cd City-Weather-App
    ```
 
 2. **Install dependencies**
